@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Bienvenidos a un *Spatium* de crecimiento personal',
+        title: 'Bienvenidos a un _Spatium_ de crecimiento personal',
         text: "Hola soy **Joaquín Medina**. Psicólogo especializado en envejecimiento, salud mental y arteterapia.\nTrabajo en la intersección entre salud mental y arteterapia utilizando la producción audiovisual como una herramienta motivacional proovedora de un feedback objetivo y constante.",
         image: {
             src: hero,
