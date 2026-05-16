@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Joaquín Medina',
-    subtitle: 'Psicólogo',
+    subtitle: 'Psicología · Envejecimiento · Salud Mental · Arteterapia',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola',
-        text: "soy **Joaquín Medina** yo dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "Hola soy **Joaquín Medina**. Psicólogo especializado en envejecimiento, salud mental y arteterapia.\nTrabajo en la intersección entre investigación, bienestar y conocimiento aplicado, explorando temas como microbiota, envejecimiento saludable, neuropsicología y salud laboral.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
