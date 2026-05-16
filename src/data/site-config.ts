@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Joaquín Medina',
-    subtitle: 'Psicología · Envejecimiento Saludable · Arteterapia',
+    subtitle: 'Salud Mental · Arteterapia · Envejecimiento Saludable',
     description: 'Portfolio Joaquín Medina, psicología y arteterapia',
     image: {
         src: '/dante-preview.jpg',
@@ -66,8 +66,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Bienvenidos a un _Spatium_ de crecimiento personal',
-        text: "Hola soy **Joaquín Medina**. Psicólogo especializado en envejecimiento, salud mental y arteterapia.\nTrabajo en la intersección entre salud mental y arteterapia utilizando la producción audiovisual como una herramienta motivacional proovedora de un feedback objetivo y constante.",
+        title: 'Psicología y Artes Escénicas',
+        text: "Hola soy **Joaquín Medina**. Psicólogo especializado en el diseño e implementación de programas de intervención psicosocial través del desarrollo de las artes escénicas.\nEstos programas de arteterapia tienen un gran impacto mejorando síntomas como la depresión y la ansiedad mediante el desarrollo del conocimiento y el control físico, mental y emocional propios. \n\n Los programas suelen acompañarse de una producción audiovisual propia y van dirigidos a adultos mayores y/o personas con discapacidad.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
