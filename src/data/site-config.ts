@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola',
-        text: "Hola soy **Joaquín Medina**. Psicólogo especializado en envejecimiento, salud mental y arteterapia.\nTrabajo en la intersección entre investigación, bienestar y conocimiento aplicado, explorando temas como microbiota, envejecimiento saludable, neuropsicología y salud laboral.",
+        text: "Hola soy **Joaquín Medina**. Psicólogo especializado en envejecimiento, salud mental y arteterapia.\nTrabajo en la intersección entre salud mental y arteterapia utilizando la producción audiovisual como una herramienta motivacional proovedora de un feedback objetivo y constante.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
