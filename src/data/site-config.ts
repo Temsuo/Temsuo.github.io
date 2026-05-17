@@ -3,7 +3,7 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://joaquimedina.netlify.app/',
+    website: 'https://temsuo.github.io/joaquimedina.github.io/',
     avatar: {
         src: avatar,
         alt: 'Ethan Donovan'
