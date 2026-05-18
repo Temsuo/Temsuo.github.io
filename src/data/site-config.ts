@@ -25,7 +25,10 @@ const siteConfig: SiteConfig = {
             text: 'Proyectos',
             href: '/projects'
         },
-        
+        {
+            text: 'Contacto',
+            href: '/contact'
+        },
     ],
     footerNavLinks: [
         {
