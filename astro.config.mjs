@@ -5,10 +5,9 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://temsuo.github.io/joaquimedina.github.io/',
+    site: 'https://temsuo.github.io/',
 
-    base: '/joaquimedina.github.io/',
-
+    
     vite: {
         plugins: [tailwindcss()]
     },
