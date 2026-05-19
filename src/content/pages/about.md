@@ -11,7 +11,7 @@ seo:
 ![Alt text for image](../../assets/images/about.jpg)
 
 
-Soy Joaquín Medina, psicólogo especializado en envejecimiento saludable, intervención psicosocial, arteterapia y desarrollo de proyectos comunitarios basados en las artes escénicas y su producción audiovisual.
+Soy Joaquín Medina, psicólogo especializado en envejecimiento saludable, intervención psicosocial, arteterapia y desarrollo de proyectos comunitarios basados en las artes escénicas.
 
 Mi trabajo se centra en el diseño e implementación de programas orientados a mejorar el bienestar emocional, la participación social y la calidad de vida de las personas mediante procesos creativos y dinámicas grupales.
 
