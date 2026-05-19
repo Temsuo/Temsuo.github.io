@@ -10,7 +10,7 @@ seo:
     alt: Project preview
 ---
 
-Proyecto de creación artística comunitaria desarrollado junto a la compañía teatral Vladimir Tzekov en torno a la obra *Rapsodia nº2 · La vida es sueño*.
+Proyecto de creación artística comunitaria desarrollado junto a la compañía teatral Vladimir Tzekov, reinterpretando el clásico teatral español La vida es sueño, Calderon de la Barca.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
     src="https://player.vimeo.com/video/31536380"
