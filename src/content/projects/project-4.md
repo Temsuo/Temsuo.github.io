@@ -8,15 +8,7 @@ seo:
     src: '../../assets/images/project-4.jpg'
 ---
 
-![Project preview](../../assets/images/project-4.jpg)
-
-## Archena Club de Fútbol · Producción Audiovisual Institucional
-
 Proyecto audiovisual desarrollado para la Concejalía de Deportes del Ayuntamiento de Archena con el objetivo de promocionar el Archena Club de Fútbol y visibilizar el trabajo formativo y comunitario realizado por la entidad deportiva.
-
-El proyecto incluyó la guionización, dirección, grabación y edición completa de la pieza audiovisual, realizada en colaboración con jugadores y componentes del club de diferentes categorías, desde equipos infantiles hasta juveniles.
-
-La producción buscó transmitir valores relacionados con el deporte, la participación colectiva, el compromiso grupal y el desarrollo personal a través de una narrativa dinámica y cercana.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
@@ -27,6 +19,10 @@ La producción buscó transmitir valores relacionados con el deporte, la partici
     style="position: absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
+
+El proyecto incluyó la guionización, dirección, grabación y edición completa de la pieza audiovisual, realizada en colaboración con jugadores y componentes del club de diferentes categorías, desde equipos infantiles hasta juveniles.
+
+La producción buscó transmitir valores relacionados con el deporte, la participación colectiva, el compromiso grupal y el desarrollo personal a través de una narrativa dinámica y cercana.
 
 ## Ámbitos de trabajo
 
