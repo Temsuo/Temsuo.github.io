@@ -46,18 +46,7 @@ const siteConfig: SiteConfig = {
         
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        
     ],
     hero: {
         title: 'Psicología y Artes Escénicas',
@@ -73,14 +62,7 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
-    },
+    
     postsPerPage: 8,
     projectsPerPage: 8
 };
