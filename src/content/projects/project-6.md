@@ -1,5 +1,5 @@
 ---
-title: 'Boomerang Park · Artes Escénicas, Inclusión y Producción Audiovisual'
+title: 'Boomerang Park · Artes Escénicas e Inclusión Social'
 description: Proyecto audiovisual y artístico desarrollado junto a actores con discapacidad intelectual en colaboración con un parque infantil de Archena.
 publishDate: 'Dec 28 2023'
 isFeatured: true
@@ -9,9 +9,7 @@ seo:
 ---
 
 
-## Boomerang · Proyecto de Inclusión Social y Producción Audiovisual
-
-Proyecto audiovisual desarrollado en colaboración con un parque infantil de Archena y un grupo de actores con discapacidad intelectual vinculados al Centro de Día Los Mazos.
+Proyecto de una producción audiovisual e inclusión social desarrollado en colaboración con el parque infantil Boomeran Park de Archena y un grupo de actores con discapacidad intelectual vinculados al Centro de Día Los Mazos, Archena.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
