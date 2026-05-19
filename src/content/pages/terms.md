@@ -5,12 +5,6 @@ seo:
   description: Información legal y condiciones de uso del sitio web.
 ---
 
----
-title: 'Términos y condiciones'
-description: 'Información legal y condiciones de uso del sitio web.'
-publishDate: 'May 19 2026'
----
-
 ## Información general
 
 Este sitio web tiene carácter informativo y profesional, y tiene como finalidad mostrar proyectos, trabajos audiovisuales y actividades relacionadas con la psicología, la intervención psicosocial, las artes escénicas y la producción audiovisual.
