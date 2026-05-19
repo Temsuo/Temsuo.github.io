@@ -1,7 +1,8 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+title: 'Archena Club de Fútbol · Producción Audiovisual'
+description: Proyecto audiovisual desarrollado para la Concejalía de Deportes del Ayuntamiento de Archena en colaboración con el Archena Club de Fútbol.
 publishDate: 'Oct 19 2023'
+isFeatured: true
 seo:
   image:
     src: '../../assets/images/project-4.jpg'
@@ -9,53 +10,30 @@ seo:
 
 ![Project preview](../../assets/images/project-4.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Archena Club de Fútbol · Producción Audiovisual Institucional
 
-**Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Proyecto audiovisual desarrollado para la Concejalía de Deportes del Ayuntamiento de Archena con el objetivo de promocionar el Archena Club de Fútbol y visibilizar el trabajo formativo y comunitario realizado por la entidad deportiva.
 
-## Objectives
+El proyecto incluyó la guionización, dirección, grabación y edición completa de la pieza audiovisual, realizada en colaboración con jugadores y componentes del club de diferentes categorías, desde equipos infantiles hasta juveniles.
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+La producción buscó transmitir valores relacionados con el deporte, la participación colectiva, el compromiso grupal y el desarrollo personal a través de una narrativa dinámica y cercana.
 
-## Features
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
+  <iframe
+    src="https://player.vimeo.com/video/139798034"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
 
-1. **Biometric Mood Analysis:**
+## Ámbitos de trabajo
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
-
-2. **Personalized Playlists:**
-
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
-
-3. **Context-Aware Recommendations:**
-
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
-
-4. **Collaborative Playlists:**
-
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
-
-5. **Real-Time Feedback Integration:**
-
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
-
-## Technology Stack
-
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
-
-## Outcome
-
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- Producción audiovisual
+- Dirección creativa
+- Intervención comunitaria
+- Deporte y participación juvenil
+- Narrativa audiovisual
+- Fomento de hábitos saludables
+- Trabajo grupal y coordinación artística
