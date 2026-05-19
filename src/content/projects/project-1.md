@@ -8,8 +8,6 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/project-1.jpg)
-
 ## Campo de Desconcentración Polivalente · Alcóntar
 
 Proyecto de intervención sociocultural desarrollado en el municipio de Alcóntar (Almería), orientado a la activación comunitaria y la integración social mediante prácticas artísticas contemporáneas, convivencia rural y producción audiovisual participativa.
