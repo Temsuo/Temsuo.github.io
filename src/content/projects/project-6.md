@@ -1,6 +1,6 @@
 ---
-title: FitQuest - AR Fitness Adventure Game
-description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+title: 'Boomerang Park · Artes Escénicas, Inclusión y Producción Audiovisual'
+description: Proyecto audiovisual y artístico desarrollado junto a actores con discapacidad intelectual en colaboración con un parque infantil de Archena.
 publishDate: 'Dec 28 2023'
 seo:
   image:
@@ -9,53 +9,56 @@ seo:
 
 ![Project preview](../../assets/images/project-6.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Boomerang · Proyecto de Inclusión Social y Producción Audiovisual
 
-**Project Overview:**
-FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes traditional workout routines by combining physical exercise with immersive gameplay. This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+Proyecto audiovisual desarrollado en colaboración con un parque infantil de Archena y un grupo de actores con discapacidad intelectual vinculados al Centro de Día Los Mazos.
 
-## Objectives
+La propuesta surgió a partir de un proceso de formación en artes escénicas realizado durante mis prácticas profesionales, donde trabajé dinámicas de expresión corporal, interpretación y participación grupal con personas con síndrome de Down y otras discapacidades intelectuales.
 
-1. Develop a fitness app that leverages augmented reality to make workouts more enjoyable and interactive.
-2. Integrate real-world locations and landmarks into the game, turning everyday environments into exciting adventure settings.
-3. Motivate users to stay active and maintain a consistent fitness routine by blending physical activity with a captivating storyline.
+El proyecto culminó en la creación de una pieza audiovisual promocional protagonizada íntegramente por los participantes, integrando procesos creativos, representación artística y experiencias de inclusión social y laboral dentro de un entorno profesional real.
 
-## Features
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
+  <iframe
+    src="https://player.vimeo.com/video/156838243"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
 
-1. **Augmented Reality Workouts:**
+## Objetivos del proyecto
 
-- FitQuest utilizes AR technology to overlay game elements onto the real-world environment, creating an immersive and dynamic workout experience.
-- Users engage in exercises that align with the game's storyline while interacting with virtual elements superimposed on their surroundings.
+- Favorecer la inclusión social mediante procesos creativos y audiovisuales.
+- Potenciar habilidades expresivas, sociales y comunicativas.
+- Generar experiencias de participación activa en contextos profesionales reales.
+- Visibilizar capacidades artísticas y creativas de personas con discapacidad intelectual.
+- Utilizar la producción audiovisual como herramienta de empoderamiento y representación social.
 
-2. **Interactive Storyline and Challenges:**
+## Metodología de trabajo
 
-- The app features an adventure-driven storyline where users embark on quests and missions to complete fitness challenges.
-- Challenges include cardio exercises, strength training, and flexibility workouts, seamlessly integrated into the game's narrative.
+El proyecto combinó herramientas de:
 
-3. **Real-World Landmarks Integration:**
+- Artes escénicas y expresión corporal.
+- Dinámicas grupales participativas.
+- Producción audiovisual colaborativa.
+- Aprendizaje experiencial.
+- Intervención psicosocial basada en la creatividad.
 
-- FitQuest incorporates real-world landmarks and locations as key elements in the game, turning parks, streets, and other environments into virtual fitness arenas.
-- Users explore these locations while completing fitness challenges and unlocking new levels.
+Durante el proceso se trabajaron aspectos relacionados con la interpretación, la confianza grupal, la comunicación emocional y la participación activa frente a cámara.
 
-4. **Multiplayer Mode and Team Challenges:**
+## Integración social y participación
 
-- Users can connect with friends or join teams to participate in multiplayer challenges.
-- Team-based missions encourage collaboration and friendly competition, enhancing the social aspect of fitness.
+La colaboración permitió crear un espacio inclusivo donde los participantes asumieron un papel protagonista dentro de una producción audiovisual real, desarrollando competencias sociales y creativas en un contexto de reconocimiento público y visibilidad positiva.
 
-5. **Fitness Tracking and Progress Monitoring:**
+El proyecto favoreció además procesos de integración comunitaria y participación activa, acercando experiencias vinculadas al ámbito artístico y laboral a personas habitualmente excluidas de estos espacios.
 
-- The app includes a comprehensive fitness tracking system that monitors users' progress, calories burned, and achievements.
-- Users can set personalized fitness goals and track their improvement over time.
+## Ámbitos de trabajo
 
-## Technology Stack
-
-- Frontend: Unity for AR game development.
-- Backend: Node.js for handling server-side logic and real-time data synchronization.
-- Database: MongoDB for storing user profiles, fitness data, and game progress.
-- AR Integration: ARCore (Android) and ARKit (iOS) for augmented reality features.
-
-## Outcome
-
-FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- Intervención psicosocial
+- Artes escénicas
+- Discapacidad intelectual
+- Inclusión social
+- Producción audiovisual
+- Participación comunitaria
+- Expresión corporal y creativa

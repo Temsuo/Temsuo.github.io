@@ -1,5 +1,5 @@
 ---
-title: 'Boomerang · Inclusión y Producción Audiovisual'
+title: 'Boomerang Park · Artes Escénicas, Inclusión y Producción Audiovisual'
 description: Proyecto audiovisual y artístico desarrollado junto a actores con discapacidad intelectual en colaboración con un parque infantil de Archena.
 publishDate: 'Feb 20 2016'
 seo:
