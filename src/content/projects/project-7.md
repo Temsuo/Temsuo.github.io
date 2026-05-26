@@ -41,7 +41,13 @@ Introducción al lenguaje audiovisual mediante metodologías participativas y ap
 
 • La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
 
+![Project preview](../../assets/images/alcontar1.jpg)
 
+**Artes Escénicas**
+
+• Participación como intérprete junto a la compañía Vladimir Tzekov en la representación de Misa de Réquiem: La Peste, propuesta escénica desarrollada en el marco del festival.
+
+• Trabajo en procesos de creación e intervención artística vinculados al espacio público y a la participación comunitaria.
 
 ## Objetivos del proyecto
 
