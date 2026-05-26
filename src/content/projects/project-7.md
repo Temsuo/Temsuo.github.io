@@ -5,7 +5,7 @@ publishDate: 'Jan 02 2024'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/project-7.jpg'
+    src: '../../assets/images/alcontar1.jpg'
     alt: Project preview
 ---
 
