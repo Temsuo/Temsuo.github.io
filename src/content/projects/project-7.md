@@ -11,7 +11,7 @@ seo:
 ##Arte comunitario, participación ciudadana y producción audiovisual
 ![Project preview](../../assets/images/alcontar.jpg)
 
-Proyecto interdisciplinar de creación artística comunitaria desarrollado en colaboración con el Ayuntamiento de Alcóntar (Almería), orientado a fomentar la participación ciudadana, el intercambio cultural y la creación colectiva entre artistas, vecinos e instituciones locales. El proyecto transformó el municipio en un espacio de experimentación artística donde las propuestas se desarrollaban junto a la comunidad, integrando a habitantes de diferentes edades y perfiles en los procesos creativos.
+Proyecto interdisciplinar de creación artística comunitaria desarrollado en colaboración con el Ayuntamiento de Alcóntar (Almería), orientado a fomentar la participación ciudadana, el intercambio cultural y la creación colectiva entre artistas, vecinos e instituciones locales. El proyecto transformó el municipio en un espacio de experimentación artística donde las propuestas se desarrollaban junto a la comunidad, integrando a artistas de múltiples nacionalidades nacionalidades y habitantes locales de diferentes edades y perfiles en los procesos creativos.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
