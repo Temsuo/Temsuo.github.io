@@ -7,4 +7,4 @@ seo:
 ## Joaquín Medina
 ![Project preview](../../assets/images/logo.png)
 
-Para colaboraciones, cursos o consultas profesionales puedes contactarme a través del _Email:_ [joaquimedina@proton.me](mailto:joaquimedina@proton.me)
+Para colaboraciones, cursos o consultas puedes contactarme a través del _Email:_ [joaquimedina@proton.me](mailto:joaquimedina@proton.me)
