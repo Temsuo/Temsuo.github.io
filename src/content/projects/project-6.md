@@ -1,15 +1,15 @@
 ---
 title: 'Boomerang Park · Artes Escénicas e Inclusión Social'
-description: Proyecto audiovisual y artístico desarrollado junto a actores con discapacidad intelectual en colaboración con un parque infantil de Archena.
+description: Proyecto de inclusión social mediante la creación de una producción audiovisual. Desarrollado en colaboración con el parque infantil Boomeran Park de Archena y un grupo de actores amateurs pertenecientes al Centro de Día Los Mazos, Archena.
 publishDate: 'Dec 28 2023'
 isFeatured: true
 seo:
   image:
     src: '../../assets/images/project-6.jpg'
 ---
+La propuesta surgió a partir de un proceso de formación en artes escénicas realizado durante mis prácticas profesionales, donde trabajé dinámicas de expresión corporal, interpretación y participación grupal con personas con síndrome de Down y otras discapacidades intelectuales.
 
-
-Proyecto de inclusión social mediante la creación de una producción audiovisual. Desarrollado en colaboración con el parque infantil Boomeran Park de Archena y un grupo de actores amateurs pertenecientes al Centro de Día Los Mazos, Archena.
+El proyecto culminó en la creación de una pieza audiovisual promocional protagonizada íntegramente por los participantes, integrando procesos creativos, representación artística y experiencias de inclusión social y laboral dentro de un entorno profesional real.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
@@ -20,12 +20,6 @@ Proyecto de inclusión social mediante la creación de una producción audiovisu
     style="position: absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
-
-La propuesta surgió a partir de un proceso de formación en artes escénicas realizado durante mis prácticas profesionales, donde trabajé dinámicas de expresión corporal, interpretación y participación grupal con personas con síndrome de Down y otras discapacidades intelectuales.
-
-El proyecto culminó en la creación de una pieza audiovisual promocional protagonizada íntegramente por los participantes, integrando procesos creativos, representación artística y experiencias de inclusión social y laboral dentro de un entorno profesional real.
-
-
 
 ## Objetivos del proyecto
 
